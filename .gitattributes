@@ -1,1 +1,4 @@
 covidhunter.exe filter=lfs diff=lfs merge=lfs -text
+Images.zip filter=lfs diff=lfs merge=lfs -text
+x_train.npy filter=lfs diff=lfs merge=lfs -text
+x_val.npy filter=lfs diff=lfs merge=lfs -text
